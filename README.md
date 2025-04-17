@@ -64,9 +64,13 @@ The app should now be accessible at http://localhost:5000. Open this URL in your
 
 ### Tech Stack
 Python
-Flask
-Flask-Login
+
+Flask 
+
+Flask-Login 
+
 SQLite
+
 Jinja2 Templates
 
 
