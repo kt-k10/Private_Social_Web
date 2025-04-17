@@ -3,10 +3,10 @@
 A private social media site just for friends ^_^
 
  These are some features!
--Invite-only user registration
--All posts are visible to all users
--User authentication with Flask-Login
--SQLite database (easy to run locally!)
+- Invite-only user registration
+- All posts are visible to all users
+- User authentication with Flask-Login
+- SQLite database (easy to run locally!)
 
 ## How 2 set up:
 
