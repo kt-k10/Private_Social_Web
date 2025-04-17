@@ -14,6 +14,7 @@ A private social media site just for friends ^_^
 Clone the repository to your local machine by running the following command in your terminal and cd into it:
 
 ```bash git clone https://github.com/kt-k10/Private_Social_Web.git```
+
 ```cd Private_Social_Web ```
 
 ### 2. Create a virtual environment
