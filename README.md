@@ -1,4 +1,6 @@
 # Private_Social_Web 🌸 🧁 💕 ✨ 🎀 🍓 🤗 🌈
+![Deeply Inconvenient](https://img.shields.io/badge/deeply%20inconvenient-for%20user-df7e9f?style=for-the-badge)
+
 
 A site just for friends ^_^
 
