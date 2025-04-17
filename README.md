@@ -1,5 +1,15 @@
 # Private_Social_Web
+
 A private social media site just for friends 🌱
 
-[Click here to go to the Google Doc](https://docs.google.com/document/d/1B3tOCrht_KywqWfFLcZex_6RavCEBwadeR_yYRo0JEU/edit?usp=sharing)
+## Minimum Viable Product
+
+- Sign up / login system (invite-only)  
+- User profiles  
+- Post updates (text, maybe images)  
+- Like or comment on posts  
+- Feed (reverse chronological or friend-only)
+
+📄 [Click here to go to the Google Doc](https://docs.google.com/document/d/1B3tOCrht_KywqWfFLcZex_6RavCEBwadeR_yYRo0JEU/edit?usp=sharing)
+
 
