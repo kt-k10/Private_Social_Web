@@ -70,9 +70,7 @@ Jinja2 Templates
 
 ### Note: Invite codes
 
-To control access, valid invite codes are stored in a file called invites.txt in the root directory. Each line should contain one invite code. For example:
-
-```text ABC123 FRIENDZONLY TOPSECRET ```
+To control access, valid invite codes are stored in a file called invites.txt in the root directory. Each line should contain one invite code. 
 
 
 
