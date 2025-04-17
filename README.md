@@ -2,7 +2,7 @@
 
 A private social media site just for friends ^_^
 
-### These are some features!
+ These are some features!
 -Invite-only user registration
 -All posts are visible to all users
 -User authentication with Flask-Login
