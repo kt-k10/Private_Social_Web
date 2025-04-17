@@ -71,9 +71,9 @@ Now that everything is set up, you can run the app with:
 The app should now be accessible at [http://localhost:5000](http://127.0.0.1:5000/
 ). Open this URL in your browser to use the application.
 
-### Note1: Using after setup
+## Note1: Using after setup
 If you have already set this up once, you should be able to use the site again by using the cd command in step 1, activating your virtual environment with the command in step 2, and running the app with the flask run command in step 5. After doing that the link will work I hope.
 
-### Note2: Invite codes
+## Note2: Invite codes
 
 To control access, valid invite codes are stored in the root directory. As of when I'm posting this, there is only one invite code and it's not uploaded to github so don't go poking around on here.
