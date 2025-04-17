@@ -77,15 +77,3 @@ If you have already set this up once, you should be able to use the site again b
 ### Note2: Invite codes
 
 To control access, valid invite codes are stored in a file called invites.txt in the root directory. Each line should contain one invite code. As of when I'm posting this, there is only one invite code and it's not uploaded to github so don't go poking around on here.
-
-### Tech Stack
-- Python
-
-- Flask 
-
-- Flask-Login 
-
-- SQLite
-
-- Jinja2 Templates
-
