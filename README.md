@@ -13,34 +13,34 @@ A private social media site just for friends ^_^
 ### 1. Clone the repo
 Clone the repository to your local machine by running the following command in your terminal and cd into it:
 
-```bash git clone https://github.com/kt-k10/Private_Social_Web.git```
+```git clone https://github.com/kt-k10/Private_Social_Web.git```
 
 ```cd Private_Social_Web ```
 
 ### 2. Create a virtual environment
 Create a virtual environment to isolate your project dependencies:
 
-```bash python -m venv venv ```
+```python -m venv venv ```
 
 Activate the virtual environment:
 
 On macOS/Linux:
 
-```bash source venv/bin/activate ```
+```source venv/bin/activate ```
 
 On Windows:
 
-```bash venv\Scripts\activate ```
+```venv\Scripts\activate ```
 
 ### 3. Install dependencies
 Once your virtual environment is activated, install the required dependencies by running:
 
-```bash pip install -r requirements.txt ```
+```pip install -r requirements.txt ```
 
 ### 4. Create the database
 To create the necessary database tables, open a Python shell using Flask:
 
-```bash flask shell ```
+```flask shell ```
 
 Then, run the following commands to set up the database:
 
