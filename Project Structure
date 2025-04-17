@@ -1,0 +1,12 @@
+private_social_web/
+├── app.py
+├── templates/
+│   ├── base.html
+│   ├── login.html
+│   ├── register.html
+│   ├── feed.html
+├── static/
+│   └── styles.css
+├── invites.txt
+├── db.sqlite3
+└── requirements.txt
