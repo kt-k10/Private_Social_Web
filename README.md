@@ -44,7 +44,9 @@ To create the necessary database tables, open a Python shell using Flask:
 
 Then, run the following commands to set up the database:
 
-```python from app import db db.create_all()```
+```python from app import db```
+
+```db.create_all()```
 
 ```exit()```
 
