@@ -44,7 +44,8 @@ To create the necessary database tables, open a Python shell using Flask:
 
 Then, run the following commands to set up the database:
 
-```python from app import db db.create_all() exit() ```
+```python from app import db db.create_all()```
+```exit()```
 
 ### 5. Add invite codes
 To control access, valid invite codes are stored in a file called invites.txt in the root directory. Each line should contain one invite code. For example:
