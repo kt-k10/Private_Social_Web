@@ -58,15 +58,15 @@ Now that everything is set up, you can run the app with:
 The app should now be accessible at http://localhost:5000. Open this URL in your browser to use the application.
 
 ### Tech Stack
-Python
+- Python
 
-Flask 
+- Flask 
 
-Flask-Login 
+- Flask-Login 
 
-SQLite
+- SQLite
 
-Jinja2 Templates
+- Jinja2 Templates
 
 ### Note: Invite codes
 
