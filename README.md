@@ -58,7 +58,7 @@ To control access, valid invite codes are stored in a file called invites.txt in
 ### 6. Run the app
 Now that everything is set up, you can run the app with:
 
-```bash flask run ```
+```flask run ```
 
 The app should now be accessible at http://localhost:5000. Open this URL in your browser to use the application.
 
