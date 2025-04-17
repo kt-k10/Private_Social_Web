@@ -66,7 +66,8 @@ Now that everything is set up, you can run the app with:
 
 ```flask run ```
 
-The app should now be accessible at http://localhost:5000. Open this URL in your browser to use the application.
+The app should now be accessible at [http://localhost:5000](http://127.0.0.1:5000/
+). Open this URL in your browser to use the application.
 
 ### Tech Stack
 - Python
