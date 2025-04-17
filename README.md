@@ -20,7 +20,7 @@ Clone the repository to your local machine by running the following command in y
 ### 2. Create a virtual environment
 Create a virtual environment to isolate your project dependencies:
 
-```bash python3 -m venv venv ```
+```bash python -m venv venv ```
 
 Activate the virtual environment:
 
