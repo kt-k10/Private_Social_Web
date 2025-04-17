@@ -10,5 +10,6 @@ A private social media site just for friends
 ```bash
 git clone https://github.com/your-username/private_social_web.git
 cd private_social_web
+```
 
 ### 2. You can access using ----
