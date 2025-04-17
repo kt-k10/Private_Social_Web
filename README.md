@@ -10,6 +10,17 @@ A private social media site just for friends ^_^
 
 ## How 2 set up:
 
+Before you begin, you'll need to open your terminal. 
+
+- **On macOS**: 
+  - Open the `Terminal` application. You can find it by going to `Applications > Utilities > Terminal`.
+
+- **On Windows**:
+  - Open the `Command Prompt` by searching for "cmd" or "Command Prompt" in the Start menu, or you can use `Windows PowerShell`.
+
+Once your terminal is open, follow the steps below to set up the app.
+
+
 ### 1. Clone the repo
 Clone the repository to your local machine by running the following command in your terminal and cd into it:
 
