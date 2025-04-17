@@ -81,7 +81,7 @@ The app should now be accessible at http://localhost:5000. Open this URL in your
 
 ### Note: Invite codes
 
-To control access, valid invite codes are stored in a file called invites.txt in the root directory. Each line should contain one invite code. 
+To control access, valid invite codes are stored in a file called invites.txt in the root directory. Each line should contain one invite code. As of when I'm posting this, there is only one invite code and it's not uploaded to github so don't go poking around on here.
 
 
 
