@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+{% block content %}
+<h2>Welcome {{ current_user.username }}</h2>
+<form method="POST" action="{{ url_for('post') }}">
+  <textarea name="content" placeholder="What's up?" rows="3" cols="50"></textarea><br>
+  <button type="submit">Post</button>
+</form>
+
+<h3>Feed</h3>
+<ul>
+  {% for post in posts %}
+    <li><strong>User {{ post.user.username }}:</strong> {{ post.content }}</li>
+  {% endfor %}
+</ul>
+<a href="{{ url_for('logout') }}">Logout</a>
+{% endblock %}
