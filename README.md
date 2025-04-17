@@ -8,7 +8,7 @@ A site just for friends ^_^
 - User authentication with Flask-Login
 - SQLite database (easy to run locally!)
 
-## How 2 set up:
+## *:･ﾟ✧*:･ﾟ✧ How 2 set up ✧･ﾟ *✧･ﾟ:*
 
 Before you begin, you'll need to open your terminal. 
 
