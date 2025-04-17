@@ -1,6 +1,6 @@
 # Private_Social_Web
 
-A private social media site just for friends ^_^
+A site just for friends ^_^
 
  These are some features!
 - Invite-only user registration
