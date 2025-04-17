@@ -50,12 +50,7 @@ Then, run the following commands to set up the database:
 
 ```exit()```
 
-### 5. Add invite codes
-To control access, valid invite codes are stored in a file called invites.txt in the root directory. Each line should contain one invite code. For example:
-
-```text ABC123 FRIENDZONLY TOPSECRET ```
-
-### 6. Run the app
+### 5. Run the app
 Now that everything is set up, you can run the app with:
 
 ```flask run ```
@@ -72,6 +67,12 @@ Flask-Login
 SQLite
 
 Jinja2 Templates
+
+### Note: Invite codes
+
+To control access, valid invite codes are stored in a file called invites.txt in the root directory. Each line should contain one invite code. For example:
+
+```text ABC123 FRIENDZONLY TOPSECRET ```
 
 
 
