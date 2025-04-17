@@ -1,4 +1,4 @@
-### Private_Social_Web
+# Private_Social_Web
 
 A private social media site just for friends ^_^
 
@@ -8,7 +8,7 @@ A private social media site just for friends ^_^
 -User authentication with Flask-Login
 -SQLite database (easy to run locally!)
 
-# How 2 set up:
+## How 2 set up:
 
 ### 1. Clone the repo
 Clone the repository to your local machine by running the following command in your terminal:
