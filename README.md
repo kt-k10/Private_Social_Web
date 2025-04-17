@@ -24,7 +24,7 @@ Once your terminal is open, follow the steps below to set up the app.
 
 
 ### 1. Clone the repo
-Clone the repository to your local machine by running the following command in your terminal and cd into it:
+Clone the repository to your local machine(by running the following command in your terminal) and cd into the cloned repository:
 
 ```git clone https://github.com/kt-k10/Private_Social_Web.git```
 
