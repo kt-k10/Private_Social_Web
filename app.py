@@ -4,6 +4,13 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_login import UserMixin
 
 app = Flask(__name__)
+app.secret_key = 'dev-secret-123'
+login_manager = LoginManager()
+login_manager.login_view = 'login'
+login_manager.init_app(app)
+
+
+app = Flask(__name__)
 app.config['SECRET_KEY'] = 'your_secret_key'  # Change this to a real secret key
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///site.db'  # Example with SQLite, change to your database URI
 db = SQLAlchemy(app)
